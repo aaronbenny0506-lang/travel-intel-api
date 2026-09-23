@@ -2,7 +2,7 @@
 API-Powered Travel Intelligence Tool
 -------------------------------------
 Given a country name, pulls its capital, currency, population, languages,
-region, and neighbouring countries into one clean summary using the
+region and neighbouring countries into one clean summary using the
 REST Countries API (v5).
 
 Usage:
