@@ -1,0 +1,8 @@
+$ python travel_intel.py "Wakanda"
+
+Couldn't build a snapshot for 'Wakanda': 'Wakanda' doesn't match any country. Check the spelling.
+
+$ python travel_intel.py "France"
+# (ran with REST_COUNTRIES_API_KEY unset, to show the config-error path)
+
+Couldn't build a snapshot for 'France': No API key configured. Set REST_COUNTRIES_API_KEY in your .env file (see .env.example).

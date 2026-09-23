@@ -1,0 +1,11 @@
+$ python travel_intel.py "India"
+
+Travel Snapshot: India
+-----------------------
+Capital:      New Delhi
+Currency:     Indian rupee (INR)
+Population:   1,428,627,663
+Languages:    Hindi, English
+Region:       Asia
+Neighbours:   PAK, CHN, NPL, BTN, BGD, MMR (ISO alpha-3 codes)
+

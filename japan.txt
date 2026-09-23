@@ -1,0 +1,10 @@
+$ python travel_intel.py "Japan"
+
+Travel Snapshot: Japan
+-----------------------
+Capital:      Tokyo
+Currency:     Japanese yen (JPY)
+Population:   123,294,513
+Languages:    Japanese
+Region:       Asia
+Neighbours:   None (island nation or no land borders)
