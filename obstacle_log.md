@@ -1,8 +1,6 @@
 # Obstacle Log : API-Powered Travel Intelligence Tool
 
 ## 1. The "obvious" API (restcountries.com v3.1) is dead
-Every write-up of this exact project points at `https://restcountries.com/v3.1/name/{name}`,
-free and keyless. Hitting it now returns:
 
 ```json
 {"success": false, "data": null, "errors": [{"message": "This API version has been deprecated..."}]}
